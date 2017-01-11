@@ -1,0 +1,9 @@
+*.pdb
+*.vshost.exe
+*.vshost.exe.manifest
+*.vshost.exe.config
+
+
+#Specific files
+*.xml
+*.dll.config
